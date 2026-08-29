@@ -98,6 +98,7 @@
 > 🎯 **Intelligent testing**: AI revolutionizes automated testing with intelligent generation, execution, and analysis.
 
 ### 🤖 AI-Powered Testing
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Natural-language regression testing for web, Android, and iOS
 - **[Applitools](https://applitools.com/)** - Visual testing and monitoring with AI
 - **[Functionize](https://www.functionize.com/)** - AI-driven test automation
 - **[Mabl](https://www.mabl.com/)** - Intelligent test automation with AI
