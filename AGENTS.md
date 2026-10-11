@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -51,7 +51,7 @@ Each category has subcategories that group similar tools together.
 
 ### Project Language Policy
 **EVERYTHING in this project MUST be in English**, except for the following files (which may remain in French):
-- `./CLAUDE.md`  
+- `./AGENTS.md`  
 - `./CLAUDE_PROMPTS.md`
 
 This includes:
@@ -117,7 +117,7 @@ The `main` branch is protected with:
 
 ### Protected Files
 - `CLAUDE_PROMPTS.md` is in .gitignore and should never be committed
-- `CLAUDE.md` is in .gitignore and should never be committed
+- `AGENTS.md` is the single instruction file (Claude Code loads it natively); `CLAUDE.md` and `GEMINI.md` are forbidden - a `CLAUDE.md` would hide `AGENTS.md` from Claude Code
 
 ### Git Configuration Requirements
 **CRITICAL**: All Git activities MUST be performed with the following user configuration:
